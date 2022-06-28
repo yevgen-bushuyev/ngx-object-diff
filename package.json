@@ -1,12 +1,13 @@
 {
-  "name": "ngx-object-diff-workspace",
-  "version": "0.0.4",
+  "name": "ngx-object-diff-evry",
+  "version": "0.0.1",
   "description": "An Angular 14+ library to compare and show object differences.",
   "author": {
     "name": "Saurabh Gangamwar",
     "email": "saurabhgangamwar78@gmail.com"
   },
   "license": "MIT",
+  "files": ["dist/ngx-object-diff"],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
